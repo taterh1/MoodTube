@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MoodTube")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ca43f844c1a86856a5d141b51b32660bae54da1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26d4e872d8eac51e6ea2295870f62f0134596a00")]
 [assembly: System.Reflection.AssemblyProductAttribute("MoodTube")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MoodTube")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
